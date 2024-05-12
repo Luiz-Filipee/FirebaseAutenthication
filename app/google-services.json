@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621773599221",
+    "project_id": "ifoodteste-dd1fe",
+    "storage_bucket": "ifoodteste-dd1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621773599221:android:1f2b8d274e402b9ad370bc",
+        "android_client_info": {
+          "package_name": "br.luizfilipe.ifoodauthentications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXoVnF-yw0cu5pjD15OoKn_L0JK-Ulug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
